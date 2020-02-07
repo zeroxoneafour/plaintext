@@ -1,4 +1,4 @@
 # plaintext
 just a plain text file
 
-<img text file.jpg>
+<img src="txt file.jpg">
